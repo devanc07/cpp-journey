@@ -8,3 +8,10 @@
 ## Programs
 - Even or Odd
 - Positive or Negative number
+
+## How to Run
+Compile using:
+g++ filename.cpp
+
+Run using:
+./a.exe
