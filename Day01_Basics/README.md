@@ -14,3 +14,10 @@ variables, and simple input/output operations.
 - Hello World
 - Sum of two numbers
 - Square of a number
+
+## How to Run
+Compile using:
+g++ filename.cpp
+
+Run using:
+./a.exe
